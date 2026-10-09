@@ -1,0 +1,11 @@
+name,email,department,manager,title,groups
+Amélie Tremblay,amelie.tremblay@acme.ca,IT,,Director,admins;employees
+Karim Haddad,karim.haddad@acme.ca,IT,Amélie Tremblay,Developer,employees;developers
+Julie Roy,julie.roy@acme.ca,Finance,Marc Gagnon,Analyst,employees;finance
+Marc Gagnon,marc.gagnon@acme.ca,Finance,,Director,employees;finance;admins
+Sophie Nguyen,sophie.nguyen@acme.ca,IT,Amélie Tremblay,Intern,employees;admins
+Luc Bouchard,luc.bouchard@acme.ca,HR,Nadia Saïd,Advisor,employees;hr
+Nadia Saïd,nadia.said@acme.ca,HR,,Director,employees;hr
+Olivier Côté,Karim.Haddad@acme.ca,IT,Amélie Tremblay,Developer,employees;developers
+Emma Lavoie,emma.lavoie@acme.ca,Finance,Marc Gagnon,Intern,employees
+Yassine Benali,yassine.benali@acme.ca,Sales,,Representative,employees;sales
